@@ -1,0 +1,10 @@
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\bin\Debug\BingoProva.exe.config
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\bin\Debug\BingoProva.exe
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\bin\Debug\BingoProva.pdb
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.csprojAssemblyReference.cache
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.CardForm.resources
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.Properties.Resources.resources
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.csproj.GenerateResource.cache
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.csproj.CoreCompileInputs.cache
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.exe
+C:\Users\bruni\Desktop\Semestre7\Topicos em Linguagem de Programacao 1\Segundo Bimestre\Prova\BingoProva\BingoProva\obj\Debug\BingoProva.pdb
