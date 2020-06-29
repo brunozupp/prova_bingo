@@ -33,12 +33,13 @@ namespace BingoProva
             // A cartela
             List<BingoBusiness> bingoCard = new List<BingoBusiness>();
 
+            // Responsável pela função de geração do número aleatorio
+            Random random = new Random();
+
             // Para cada linha/letra da cartela, repete 5 vezes
             for (int i = 0; i < 5; i++)
             {
-                // Responsável pela função de geração do número aleatorio
-                Random random = new Random();
-
+                
                 // Criando a lista que vai conter 5 valores de uma letra para uma cartela
                 List<int> line = new List<int>();
 
@@ -53,7 +54,7 @@ namespace BingoProva
                     int number = random.Next(de, ate);
 
                     // Resolvendo a questão de duplicidade
-                    while (ExistNumber(number, line))
+                    while (line.Contains(number))
                     {
                         number = random.Next(de, ate);
                     }
@@ -107,12 +108,6 @@ namespace BingoProva
 
             // Retornando a cartela
             return bingoCard;
-        }
-
-        // Verifica se o número existe na lista passada como argumento
-        private bool ExistNumber(int number, List<int> line)
-        {
-            return (line.Contains(number)) ? true  : false;
         }
     }
 }
